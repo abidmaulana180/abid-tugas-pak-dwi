@@ -12,3 +12,26 @@ for i in range(len(kalimat) - 1, -1, -1):
 
 # Menampilkan hasil
 print(hasil)
+
+
+# Membalik kalimat dengan perulangan
+hasil = ""
+for i in range(len(kalimat) - 1, -1, -1):
+    hasil = hasil + kalimat[i]
+
+# Menampilkan hasil
+print(hasil)
+# Membalik kalimat dengan perulangan
+hasil = ""
+for i in range(len(kalimat) - 1, -1, -1):
+    hasil = hasil + kalimat[i]
+
+# Menampilkan hasil
+print(hasil)
+# Membalik kalimat dengan perulangan
+hasil = ""
+for i in range(len(kalimat) - 1, -1, -1):
+    hasil = hasil + kalimat[i]
+
+# Menampilkan hasil
+print(hasil)
